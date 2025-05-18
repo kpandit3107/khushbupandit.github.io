@@ -1,4 +1,5 @@
 # Data Scientist
+Technical Skills: Python,SQL,R,Snowflake,AWS
 
 ## Education
 MS in Business Analytics
